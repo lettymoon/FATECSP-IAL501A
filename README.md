@@ -1,7 +1,5 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-# Análise de Algoritmos - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
 # Análise de Algoritmos - IAL-501
 
 Repositório da disciplina IAL-501 Análise de Algoritmos. FATEC São Paulo.
@@ -12,7 +10,6 @@ Professor: []()
 
 ## Index
 
-- [Análise de Algoritmos - ](#análise-de-algoritmos---)
 - [Análise de Algoritmos - IAL-501](#análise-de-algoritmos---ial-501)
   - [Index](#index)
   - [Instalando](#instalando)
