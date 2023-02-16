@@ -15,11 +15,11 @@ Professor: [Silvio do Lago Pereira, D.Sc.](https://www.ime.usp.br/~slago/index.h
   - [Instalando](#instalando)
   - [Executando](#executando)
   - [Conteúdo](#conteúdo)
+    - [Fundamentos de Python](#fundamentos-de-python)
     - [](#)
     - [](#-1)
     - [](#-2)
     - [](#-3)
-    - [](#-4)
   - [Links Didáticos](#links-didáticos)
 
 ## Instalando
@@ -55,8 +55,8 @@ Saida do programa:
 
 ## Conteúdo
 
-### 
-- [Fundamentos I: linguagem Python]()
+### Fundamentos de Python
+- [Fundamentos I: linguagem Python](/fatec/analise-algoritmos/Fundamentos-Python-I/)
 
 ### 
 - []()
