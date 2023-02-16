@@ -1,6 +1,6 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 # Análise de Algoritmos - IAL-501
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Repositório da disciplina IAL-501 Análise de Algoritmos. FATEC São Paulo.
 
@@ -16,10 +16,6 @@ Professor: [Silvio do Lago Pereira, D.Sc.](https://www.ime.usp.br/~slago/index.h
   - [Executando](#executando)
   - [Conteúdo](#conteúdo)
     - [Fundamentos de Python](#fundamentos-de-python)
-    - [](#)
-    - [](#-1)
-    - [](#-2)
-    - [](#-3)
   - [Links Didáticos](#links-didáticos)
 
 ## Instalando
@@ -36,40 +32,32 @@ Execute `gcc <arquivo.c> -o saida` para compilar o código
 
 Finalmente execute `./saida` para executar o código compilado e seja Feliz :)
 
---- 
+---
 
 Exemplo prático estando na pasta raiz:
+
 ```bash
+
 cd Arrays/
 gcc alg01.c -o saida
 ./saida
 ```
 
 Saida do programa:
-```
+
+```text
+
 9 5 15 
 6 9 2 
 6 10 6 
-```
 
+```
 
 ## Conteúdo
 
 ### Fundamentos de Python
+
 - [Fundamentos I: linguagem Python](/fatec/analise-algoritmos/Fundamentos-Python-I/)
-
-### 
-- []()
-
-
-### 
-- []()
-
-### 
-- []()
-
-### 
-- []()
 
 ## Links Didáticos
 
