@@ -20,37 +20,31 @@ Professor: [Silvio do Lago Pereira, D.Sc.](https://www.ime.usp.br/~slago/index.h
 
 ## Instalando
 
-Antes de começar, garanta que você esta utilizando Linux ou o WSL (Windows Subsystem Linux for Windows)
+Antes de começar, se você esta utilizando Linux ou o WSL (Windows Subsystem Linux for Windows):
 
-instale o GCC utilizando o comando `sudo apt install gcc`
+Instale o Python utilizando o comando `sudo apt install python3`
+
+Agora se estiver utilizando o windows, instale python por este link [python](https://www.python.org/downloads/windows/)
 
 ## Executando
 
 Para executar entre na pasta a qual está o código utilizando o comando `cd <nome_pasta>`
 
-Execute `gcc <arquivo.c> -o saida` para compilar o código
-
-Finalmente execute `./saida` para executar o código compilado e seja Feliz :)
+Execute `python3 <arquivo.py>` ou `python <arquivo.py>` para executar o código e seja Feliz :)
 
 ---
 
 Exemplo prático estando na pasta raiz:
 
 ```bash
-
-cd Arrays/
-gcc alg01.c -o saida
-./saida
+cd Fundamentos-Python-I/
+python3 ex1.py
 ```
 
 Saida do programa:
 
 ```text
-
-9 5 15 
-6 9 2 
-6 10 6 
-
+hello world!
 ```
 
 ## Conteúdo
@@ -61,10 +55,10 @@ Saida do programa:
 
 ## Links Didáticos
 
-[Comandos básicos em C](http://albertocn.sytes.net/2010-1/pi/aulas/linguagem_c.htm)
+[Documentação oficial Python](https://docs.python.org/3/)
 
-[GDB Compilador de C Online](https://www.onlinegdb.com/)
+[PEP-8](https://peps.python.org/pep-0008/)
 
-[Lista de exercícios IME-USP](https://drive.google.com/file/d/1Zyy9MACKkhypQT502B6Ritc9jwLnd0lW/view?usp=sharing)
+[VisuAlgo](https://visualgo.net/en)
 
-[Resumo sobre a linguagem C](https://drive.google.com/file/d/1F6M99Q3v5GrqmiGGmfwdTwndtGguLzxF/view?usp=sharing)
+[Python CheatSheet](https://cheatography.com/davechild/cheat-sheets/python/)
