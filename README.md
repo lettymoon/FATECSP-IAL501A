@@ -15,7 +15,7 @@ Professor: [Silvio do Lago Pereira, D.Sc.](https://www.ime.usp.br/~slago/index.h
   - [Instalando](#instalando)
   - [Executando](#executando)
   - [Conteúdo](#conteúdo)
-    - [Fundamentos de Python](#fundamentos-de-python)
+    - [Fundamentos](#fundamentos)
   - [Links Didáticos](#links-didáticos)
 
 ## Instalando
@@ -25,6 +25,7 @@ Antes de começar, se você esta utilizando Linux ou o WSL (Windows Subsystem Li
 Instale o Python utilizando o comando `sudo apt install python3`
 
 Agora se estiver utilizando o windows, instale python por este link [python](https://www.python.org/downloads/windows/)
+lógica
 
 ## Executando
 
@@ -49,9 +50,10 @@ hello world!
 
 ## Conteúdo
 
-### Fundamentos de Python
+### Fundamentos
 
-- [Fundamentos I: linguagem Python](/fatec/analise-algoritmos/Fundamentos-Python-I/)
+- [Fundamentos I: Linguagem Python](Fundamentos1-Python)
+  -[Estrtura de Controle](Fundamentos1-Python/estrutura-de-decontrole)
 
 ## Links Didáticos
 
