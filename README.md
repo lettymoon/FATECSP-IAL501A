@@ -24,8 +24,7 @@ Antes de começar, se você esta utilizando Linux ou o WSL (Windows Subsystem Li
 
 Instale o Python utilizando o comando `sudo apt install python3`
 
-Agora se estiver utilizando o windows, instale python por este link [python](https://www.python.org/downloads/windows/)
-lógica
+Agora se estiver utilizando o windows, instale python por este link [python](https://www.python.org/downloads/windows/).
 
 ## Executando
 
