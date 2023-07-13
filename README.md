@@ -6,6 +6,9 @@ Repositório da disciplina IAL-501 Análise de Algoritmos. FATEC São Paulo.
 
 Disciplina ministrada usando a linguagem Python.
 
+Material utilizado nas aulas: [Material](https://www.ime.usp.br/~slago/main.fatecsp.aa-t.html)
+
+
 Professor: [Silvio do Lago Pereira, D.Sc.](https://www.ime.usp.br/~slago/index.html)
 
 ## Index
