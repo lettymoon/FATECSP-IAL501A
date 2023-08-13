@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Repositório da disciplina IAL-501 Análise de Algoritmos. FATEC São Paulo.
+Repositório da disciplina IAL-501 Análise de Algoritmos. FATEC São Paulo. 01/2023
 
 Disciplina ministrada usando a linguagem Python.
 
