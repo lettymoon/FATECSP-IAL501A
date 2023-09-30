@@ -57,7 +57,7 @@ hello world!
 
 - [Fundamentos I: linguagem Python](ling-python)
 - [Fundamentos II: recursão e memoização](recusao-memoizacao)
-- [Fundamentos II: lógica e matemática](logica-matematica)
+- [Fundamentos III: lógica e matemática](logica-matematica)
 - [Simulado P1](simulado-p1)
 
 ### Análise de correção e eficiência
